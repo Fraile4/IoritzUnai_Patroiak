@@ -1,0 +1,65 @@
+
+=dataaccess.DataAccess#findEvent(Ldomain/Quote;)Ldomain/Event;∫
+≠/home/ioritztubio/Documents/UNI/3/1/SI2/siproyect/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.pdf/src/main/java/dataaccess/DataAccess.javaù ù("1*£
+1
+û û(z
+x
+
+û û(%
+%0javax.persistence.EntityManager"__id*=
+
+__unknown_file (!*
+dataaccess.DataAccess"
+dbùö
+
+û# û(5
+%1java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*/
+
+__unknown_file (
+
+qdomain.Quote2getQuoteNumber()À»
+
+û û(6
+%2domain.Quote"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*C
+
+__unknown_file ('
+%
+%0javax.persistence.EntityManager*"
+
+__unknown_file (
+""*5
+
+__unknown_file (
+
+%1java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)[
+Y
+
+û û(7
+quodomain.Quote"__id*0
+
+__unknown_file (
+
+%2domain.Quoteïí
+
+ü	 ü(
+%3domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*1
+
+__unknown_file (
+
+quodomain.Quote2getQuestion()éã
+
+ü	 ü(%
+%4domain.Event"(domain.Question#getEvent()Ldomain/Event;*3
+
+__unknown_file (
+
+%3domain.Question2
+getEvent()""
+
+ü ü(&
+
+%4domain.Event:
+
+ù ù(
+qdomain.QuoteB
+dataaccess.DataAccessH

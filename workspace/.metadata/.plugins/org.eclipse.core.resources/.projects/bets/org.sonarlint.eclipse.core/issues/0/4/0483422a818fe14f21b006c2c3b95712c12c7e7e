@@ -1,0 +1,30 @@
+
+l	java:S125F"<This block of commented-out lines of code should be removed.(ë€é—ÿÿÿÿÿH±RMAJORZ
+CODE_SMELL
+m
+java:S1128"5Remove this unused import 'javax.swing.JRadioButton'.(ÛÕÚºüÿÿÿÿ8”¨è½½1HÓ!RMINORZ
+CODE_SMELL
+l	java:S125P"<This block of commented-out lines of code should be removed.(³³òşÿÿÿÿH´RMAJORZ
+CODE_SMELL
+b
+java:S1135H"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH³RINFOZ
+CODE_SMELL
+e
+java:S1128	"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8”¨è½½1HÏ!RMINORZ
+CODE_SMELL
+g
+java:S1128"4Remove this unused import 'javax.swing.ButtonGroup'.(ï˜Úş8”¨è½½1HÑ!RMINORZ
+CODE_SMELL
+}
+java:S1192"HDefine a constant instead of duplicating this literal "Tahoma" 10 times.(Û»¿ÁşÿÿÿÿH§RCRITICALZ
+CODE_SMELL
+z
+java:S1192^"KDefine a constant instead of duplicating this literal "Etiquetas" 11 times.(¸ÊœHœRCRITICALZ
+CODE_SMELL
+[	java:S106I"+Replace this use of System.out by a logger.(®Õ¢ÍúÿÿÿÿH²RMAJORZ
+CODE_SMELL
+\
+java:S10686"0Remove this unused "btnNewButton" private field.(ıÀ•€H¼RMAJORZ
+CODE_SMELL
+l	java:S125["<This block of commented-out lines of code should be removed.(»Ä¾øÿÿÿÿHµRMAJORZ
+CODE_SMELL

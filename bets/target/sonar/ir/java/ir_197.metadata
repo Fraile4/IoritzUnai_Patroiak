@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#gertaeraEzabatu(Ldomain/Event;)Z
+==
+gertaeraEzabatu dataaccess.DataAccess#gertaeraEzabatu(Ldomain/Event;)Z
+open dataaccess.DataAccess#open(Z)V
+close dataaccess.DataAccess#close()V

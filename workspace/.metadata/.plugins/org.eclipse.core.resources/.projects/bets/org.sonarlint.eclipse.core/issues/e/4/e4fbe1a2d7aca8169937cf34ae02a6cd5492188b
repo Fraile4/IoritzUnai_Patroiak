@@ -1,0 +1,66 @@
+
+q	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(◊æÄ¥H†RMAJORZ
+CODE_SMELL
+z
+java:S1192+"KDefine a constant instead of duplicating this literal "Etiquetas" 13 times.(Ã∏ﬁëH°RCRITICALZ
+CODE_SMELL
+©
+java:S2681‚"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ÿ‚ìÏHØRMAJORZ
+CODE_SMELL
+Ç	java:S116:"WRename this field "JButtonEvent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö©ì°H∞RMINORZ
+CODE_SMELL
+Ö
+java:S1450="TRemove the "sport" field and declare it as a local variable in the relevant methods.(¸£§·˛ˇˇˇˇH±RMINORZ
+CODE_SMELL
+^
+java:S1948$"/Make "businessLogic" transient or serializable.(˜ˇá›H≤RCRITICALZ
+CODE_SMELL
+ñ
+java:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(≈©òÃˇˇˇˇˇH≥RMAJORZ
+CODE_SMELL
+í
+java:S1149’"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸÆÒéH¥RMAJORZ
+CODE_SMELL
+í
+java:S1149Ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñÑÈ»HµRMAJORZ
+CODE_SMELL
+Å
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(◊æÄ¥H∂RCRITICALZ
+CODE_SMELL
+ò
+java:S1130H"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(◊æÄ¥H∆RMINORZ
+CODE_SMELL
+T
+java:S1125ç"'Remove the unnecessary boolean literal.( ¢è±H»RMINORZ
+CODE_SMELL
+T
+java:S1125é"'Remove the unnecessary boolean literal.(≥–É¥HÀRMINORZ
+CODE_SMELL
+f
+java:S1117ê"9Rename "sport" which hides the field declared at line 61.(•¸‚ÈHŒRMAJORZ
+CODE_SMELL
+T
+java:S1125í"'Remove the unnecessary boolean literal.(ùÄ∂»HœRMINORZ
+CODE_SMELL
+h	java:S125Ø"<This block of commented-out lines of code should be removed.(ÜóªˆH“RMAJORZ
+CODE_SMELL
+\	java:S106∂"+Replace this use of System.out by a logger.(ﬂÖÂ¿¯ˇˇˇˇH‘RMAJORZ
+CODE_SMELL
+\	java:S106∑"+Replace this use of System.out by a logger.(üΩ“Ú˙ˇˇˇˇH’RMAJORZ
+CODE_SMELL
+h	java:S125œ"<This block of commented-out lines of code should be removed.(ÅÛÊîH÷RMAJORZ
+CODE_SMELL
+\	java:S106ﬁ"+Replace this use of System.out by a logger.(◊ºªÕ˚ˇˇˇˇH◊RMAJORZ
+CODE_SMELL
+W	java:S106á"+Replace this use of System.out by a logger.(ØÙ¢ÙHÿRMAJORZ
+CODE_SMELL
+h	java:S125í"<This block of commented-out lines of code should be removed.(„ß…ƒHŸRMAJORZ
+CODE_SMELL
+X
+java:S1905ì",Remove this unnecessary cast to "Component".(á÷§QH⁄RMINORZ
+CODE_SMELL
+z	java:S100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˝ˆ£√H‹RMINORZ
+CODE_SMELL
+U
+java:S1172ü"(Remove this unused method parameter "e".(˝ˆ£√H›RMAJORZ
+CODE_SMELL

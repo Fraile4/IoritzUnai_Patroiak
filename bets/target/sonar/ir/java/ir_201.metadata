@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#gertaerakKopiatu(Ldomain/Event;Ljava/util/Date;)Z
+==
+gertaerakKopiatu dataaccess.DataAccess#gertaerakKopiatu(Ldomain/Event;Ljava/util/Date;)Z
+open dataaccess.DataAccess#open(Z)V
+close dataaccess.DataAccess#close()V

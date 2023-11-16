@@ -1,0 +1,17 @@
+dataaccess.DataAccess#kop(Ldomain/Event;Ldomain/Event;)V
+domain.Quote#<init>(Ljava/lang/Double;Ljava/lang/String;Ldomain/Question;)V
+domain.Question#<init>(Ljava/lang/String;DLdomain/Event;)V
+domain.Quote#instance-init#
+domain.Question#instance-init#
+==
+getBetMinimum domain.Question#getBetMinimum()D
+listaraGehitu domain.Event#listaraGehitu(Ldomain/Question;)V
+getQuestionNumber domain.Question#getQuestionNumber()Ljava/lang/Integer;
+listaraGehitu domain.Question#listaraGehitu(Ldomain/Quote;)V
+persist javax.persistence.EntityManager#persist(Ljava/lang/Object;)V
+getQuotes domain.Question#getQuotes()Ljava/util/Vector;
+getQuestions domain.Event#getQuestions()Ljava/util/Vector;
+getQuote domain.Quote#getQuote()Ljava/lang/Double;
+find javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;
+getForecast domain.Quote#getForecast()Ljava/lang/String;
+getQuestion domain.Question#getQuestion()Ljava/lang/String;

@@ -1,0 +1,38 @@
+package businessLogic;
+
+import java.sql.Date;
+import java.text.SimpleDateFormat;
+
+import configuration.ConfigXML;
+import domain.Event;
+
+public class Adibidea {
+	
+	public static void main(String[] args) {
+		boolean isLocal=true;
+		BLFactory factory;
+		factory = new BusinessLogicLocal();
+		ConfigXML c = ConfigXML.getInstance();
+		//Facade objektua lortu lehendabiziko ariketa erabiliz
+		BLFacade facadeInterface= factory.createBLFacade(c);
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+		Date data;
+		try {
+			data = (Date) sdf.parse("17/12/2023");
+			ExtendedIterator<Event> ite = BLFacadeImplementation
+		}catch(Exception e) {
+			
+		}
+		Event ev;
+		i.goLast();
+		while (i.hasPrevious()){
+		ev=i.previous();
+		ev.print();
+		}
+		//Nahiz eta suposatu hasierara ailegatu garela, eragiketa egiten dugu.
+		i.goFirst();
+		while (i.hasNext())()){
+		ev=i.next();
+		ev.print();
+		}
+}

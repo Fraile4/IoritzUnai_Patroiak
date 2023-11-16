@@ -1,0 +1,10 @@
+package businessLogic;
+
+import configuration.ConfigXML;
+import dataaccess.DataAccess;
+
+public class BusinessLogicLocal (ConfigXML c){
+	BLFacade appFacadeInterface;
+	DataAccess da= new DataAccess(c.getDataBaseOpenMode().equals("initialize"));
+	appFacadeInterface=new BLFacadeImplementBLFacade appFacadeInterface;ation(da);
+}

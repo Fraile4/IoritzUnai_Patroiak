@@ -1,0 +1,5 @@
+dataaccess.DataAccess#gertaeraBilatu(Ljava/lang/String;ZLjavax/persistence/TypedQuery;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getResultList javax.persistence.TypedQuery#getResultList()Ljava/util/List;
+getDescription domain.Event#getDescription()Ljava/lang/String;

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="businessLogic.BLFactory"/>
+    <fullyQualifiedTypeName name="configuration.ConfigXML"/>
+    <fullyQualifiedTypeName name="businessLogic.BusinessLogicRemote"/>
+    <fullyQualifiedTypeName name="businessLogic.BusinessLogicLocal"/>
+    <fullyQualifiedTypeName name="domain.Event"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JTable"/>
+    <fullyQualifiedTypeName name="javax.swing.table.AbstractTableModel"/>
+    <fullyQualifiedTypeName name="domain.Apustua"/>
+    <fullyQualifiedTypeName name="domain.ApustuAnitza"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="domain.Registered"/>
+    <fullyQualifiedTypeName name="java.util.ResourceBundle"/>
+</qualifiedTypeNameHistroy>

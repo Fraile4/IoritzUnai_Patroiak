@@ -1,0 +1,21 @@
+package gui;
+
+import javax.swing.JFrame;
+import javax.swing.JTable;
+
+import domain.Registered;
+
+public class TableBetsGUI extends JFrame {
+
+	private JTable taula;
+	private Registered erabiltzaile;
+	
+	public TableBetsGUI (Registered erabiltzaile) {
+		super (erabiltzaile.getUsername() + "-k egindako apostuak: ");
+		this.setBounds(100, 100, 700, 200);
+		this.erabiltzaile = erabiltzaile;
+		
+		Adapter adapter = new Adapter(erabiltzaile);
+		
+	}
+}

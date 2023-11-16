@@ -1,0 +1,40 @@
+
+v	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(¸ŞÃ³üÿÿÿÿHñRMAJORZ
+CODE_SMELL
+[
+java:S1068"/Remove this unused "contentPane" private field.(îß÷H”RMAJORZ
+CODE_SMELL
+^
+java:S1948"/Make "businessLogic" transient or serializable.(÷ÿ‡İHŒRCRITICALZ
+CODE_SMELL
+z
+java:S11924"KDefine a constant instead of duplicating this literal "Etiquetas" 10 times.(¨í‹HòRCRITICALZ
+CODE_SMELL
+
+java:S1192:"PDefine a constant instead of duplicating this literal "Times New Roman" 7 times.(ÿ”½ŒHRCRITICALZ
+CODE_SMELL
+
+java:S11300"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¸ŞÃ³üÿÿÿÿHRMINORZ
+CODE_SMELL
+]
+java:S1068 "%Remove this unused "u" private field.(óàé£ûÿÿÿÿ8Ÿƒ½½1HéRMAJORZ
+CODE_SMELL
+Y
+java:S1125‰"'Remove the unnecessary boolean literal.(ÀµŞúÿÿÿÿHRMINORZ
+CODE_SMELL
+{	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ßÎ9H‹RMINORZ
+CODE_SMELL
+	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÊàùÿÿÿÿH‰RMINORZ
+CODE_SMELL
+x
+java:S11924"IDefine a constant instead of duplicating this literal "Register" 3 times.(¨í‹HıRCRITICALZ
+CODE_SMELL
+\	java:S106"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿH“RMAJORZ
+CODE_SMELL
+l	java:S125;"<This block of commented-out lines of code should be removed.(¬ß¾¼øÿÿÿÿHRMAJORZ
+CODE_SMELL
+|	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞßöÔHŠRMINORZ
+CODE_SMELL
+`
+java:S1172""(Remove this unused method parameter "u".(‹°¼üÿÿÿÿ8³¡ƒ½½1H‰RMAJORZ
+CODE_SMELL

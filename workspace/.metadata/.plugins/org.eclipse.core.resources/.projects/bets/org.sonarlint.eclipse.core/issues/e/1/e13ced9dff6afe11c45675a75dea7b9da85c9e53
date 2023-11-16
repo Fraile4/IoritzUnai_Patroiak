@@ -1,0 +1,89 @@
+
+˜
+java:S1130L"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¸ÇýHŒRMINORZ
+CODE_SMELL
+h	java:S125ô"<This block of commented-out lines of code should be removed.(óæ”H›RMAJORZ
+CODE_SMELL
+Z
+java:S1481œ"(Remove this unused "que" local variable.(äøÄ¨ýÿÿÿÿH’RMINORZ
+CODE_SMELL
+\
+java:S3740•"/Provide the parametrized type for this generic.(†´á’HáRMAJORZ
+CODE_SMELL
+t
+java:S1126‡"BReplace this if-then-else statement by a single method invocation.(“—àðýÿÿÿÿHRMINORZ
+CODE_SMELL
+W	java:S106³"+Replace this use of System.out by a logger.(¯ô¢ôH RMAJORZ
+CODE_SMELL
+’
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–„éÈHòRMAJORZ
+CODE_SMELL
+
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(à¸ÇýHóRCRITICALZ
+CODE_SMELL
+‘
+java:S1149L"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(à¸ÇýHðRMAJORZ
+CODE_SMELL
+i
+java:S1854œ"7Remove this useless assignment to local variable "que".(äøÄ¨ýÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+t
+java:S1126¾"BReplace this if-then-else statement by a single method invocation.(ÈÜþ…ûÿÿÿÿH•RMINORZ
+CODE_SMELL
+h	java:S125Ô"<This block of commented-out lines of code should be removed.(†—»öH—RMAJORZ
+CODE_SMELL
+\	java:S106Û"+Replace this use of System.out by a logger.(ß…åÀøÿÿÿÿH™RMAJORZ
+CODE_SMELL
+o
+java:S1126"BReplace this if-then-else statement by a single method invocation.(‚¡ªðHžRMINORZ
+CODE_SMELL
+W	java:S106”"+Replace this use of System.out by a logger.(ÿö¹÷HŸRMAJORZ
+CODE_SMELL
+o
+java:S1126Ï"BReplace this if-then-else statement by a single method invocation.(ˆŠÙ×H–RMINORZ
+CODE_SMELL
+^
+java:S1948%"/Make "businessLogic" transient or serializable.(÷ÿ‡ÝHíRCRITICALZ
+CODE_SMELL
+’
+java:S1149ú"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ù®ñŽHñRMAJORZ
+CODE_SMELL
+h	java:S125¾"<This block of commented-out lines of code should be removed.(ã§ÉÄH¡RMAJORZ
+CODE_SMELL
+U
+java:S1172Ë"(Remove this unused method parameter "e".(ýö£ÃH¥RMAJORZ
+CODE_SMELL
+\	java:S106Ü"+Replace this use of System.out by a logger.(Ÿ½ÒòúÿÿÿÿHšRMAJORZ
+CODE_SMELL
+`
+java:S3740="/Provide the parametrized type for this generic.(—Ò›ÂøÿÿÿÿHàRMAJORZ
+CODE_SMELL
+–
+java:S11495"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Å©˜ÌÿÿÿÿÿHîRMAJORZ
+CODE_SMELL
+W	java:S106ÿ"+Replace this use of System.out by a logger.(³Äœ˜HœRMAJORZ
+CODE_SMELL
+X
+java:S1905¿",Remove this unnecessary cast to "Component".(‡Ö¤QH¢RMINORZ
+CODE_SMELL
+\	java:S106†"+Replace this use of System.out by a logger.(×¼»ÍûÿÿÿÿHRMAJORZ
+CODE_SMELL
+z	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýö£ÃH¤RMINORZ
+CODE_SMELL
+T
+java:S1068@"(Remove this unused "user" private field.(Ê¤öúH§RMAJORZ
+CODE_SMELL
+z
+java:S1192,"KDefine a constant instead of duplicating this literal "Etiquetas" 10 times.(Ì¸Þ‘HâRCRITICALZ
+CODE_SMELL
+q	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(à¸ÇýHßRMAJORZ
+CODE_SMELL
+–
+java:S1149D"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(­‹ú¨ýÿÿÿÿHïRMAJORZ
+CODE_SMELL
+T
+java:S1172L"(Remove this unused method parameter "v".(à¸ÇýHŽRMAJORZ
+CODE_SMELL
+o
+java:S1126¦"BReplace this if-then-else statement by a single method invocation.(ˆŠÙ×H”RMINORZ
+CODE_SMELL

@@ -1,0 +1,42 @@
+
+Fdataaccess.DataAccess#findUser(Ldomain/Registered;)Ldomain/Registered;º
+­/home/ioritztubio/Documents/UNI/3/1/SI2/siproyect/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.pdf/src/main/java/dataaccess/DataAccess.javaÂ	 Â	("1*«
+1
+Ã		 Ã	(z
+x
+
+Ã		 Ã	(%
+%0javax.persistence.EntityManager"__id*=
+
+__unknown_file (!*
+dataaccess.DataAccess"
+db¢Ÿ
+
+Ã	# Ã	(5
+%1java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*7
+
+__unknown_file (
+
+userdomain.Registered2getUsername()ÏÌ
+
+Ã		 Ã	(6
+%2domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*C
+
+__unknown_file ('
+%
+%0javax.persistence.EntityManager*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)"'
+
+Ã	 Ã	(7
+
+%2domain.Registered:'
+
+Â	 Â	(+
+userdomain.RegisteredB
+dataaccess.DataAccessH

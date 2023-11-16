@@ -1,0 +1,54 @@
+
+3dataaccess.DataAccess#getAllTeams()Ljava/util/List;º
+­/home/ioritztubio/Documents/UNI/3/1/SI2/siproyect/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.pdf/src/main/java/dataaccess/DataAccess.java³	 ³	("1*Ê
+1
+´	 ´	(z
+x
+
+´	 ´	(%
+%0javax.persistence.EntityManager"__id*=
+
+__unknown_file (!*
+dataaccess.DataAccess"
+dbõò
+
+´	 ´	(M"
+%1javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*C
+
+__unknown_file ('
+%
+%0javax.persistence.EntityManager*5
+
+__unknown_file (
+SELECT t FROM Team t *"
+
+__unknown_file (
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)}
+{
+
+´	 ´	(N%
+queryjavax.persistence.TypedQuery"__id*@
+
+__unknown_file ($
+"
+%1javax.persistence.TypedQuery¹¶
+
+µ	 µ	(*
+%2java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*C
+
+__unknown_file ('
+%
+queryjavax.persistence.TypedQuery2getResultList()a
+_
+
+µ	 µ	(+
+teamsjava.util.List"__id*2
+
+__unknown_file (
+
+%2java.util.List"'
+
+¶	 ¶	(
+
+teamsjava.util.ListB
+dataaccess.DataAccessH

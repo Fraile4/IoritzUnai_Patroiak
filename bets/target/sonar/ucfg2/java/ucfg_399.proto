@@ -1,0 +1,96 @@
+
+Kdataaccess.DataAccess#findApustuAnitza(Ldomain/Registered;)Ljava/util/List;∫
+≠/home/ioritztubio/Documents/UNI/3/1/SI2/siproyect/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.pdf/src/main/java/dataaccess/DataAccess.javaª ª(+"1*˛
+1
+º! º(#z
+x
+
+º! º(#%
+%0javax.persistence.EntityManager"__id*=
+
+__unknown_file (!*
+dataaccess.DataAccess"
+dbüú
+
+º; º(J
+%1java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*4
+
+__unknown_file (
+
+udomain.Registered2getUsername()œÃ
+
+º! º(K
+%2domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*C
+
+__unknown_file ('
+%
+%0javax.persistence.EntityManager*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)z
+x
+
+Ω$ Ω(&%
+%3javax.persistence.EntityManager"__id*=
+
+__unknown_file (!*
+dataaccess.DataAccess"
+db•¢
+Ω$ Ω(é"
+%4javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*C
+
+__unknown_file ('
+%
+%3javax.persistence.EntityManager*d
+
+__unknown_file (HF
+DSELECT aa FROM ApustuAnitza aa WHERE aa.getUser().getUsername() =?1 *"
+
+__unknown_file (
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)
+}
+Ω Ω(è&
+Aqueryjavax.persistence.TypedQuery"__id*@
+
+__unknown_file ($
+"
+%4javax.persistence.TypedQueryüú
+
+æ æ((
+%5java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*4
+
+__unknown_file (
+
+udomain.Registered2getUsername()“œ
+
+æ æ()"
+%6javax.persistence.TypedQuery"\javax.persistence.TypedQuery#setParameter(ILjava/lang/Object;)Ljavax/persistence/TypedQuery;*D
+
+__unknown_file ((
+&
+Aqueryjavax.persistence.TypedQuery* 
+
+__unknown_file (2*4
+
+__unknown_file (
+
+%5java.lang.String2!setParameter(ILjava/lang/Object;)∫∑
+
+ø	 ø(
+%7java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*D
+
+__unknown_file ((
+&
+Aqueryjavax.persistence.TypedQuery2getResultList()"$
+
+ø ø( 
+
+%7java.util.List:$
+
+ª, ª(8
+udomain.RegisteredB
+dataaccess.DataAccessH

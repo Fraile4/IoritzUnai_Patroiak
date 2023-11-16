@@ -1,0 +1,72 @@
+
+Pdataaccess.DataAccess#irabaziaKalkulatu(Ldomain/ApustuAnitza;)Ljava/lang/Double;∫
+≠/home/ioritztubio/Documents/UNI/3/1/SI2/siproyect/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.pdf/src/main/java/dataaccess/DataAccess.javaŸ Ÿ(!"4*ı
+2
+€ €(N
+L
+
+€ €(
+apdomain.Apustua"__id*"
+
+__unknown_file (
+""ã
+à
+
+€ €(
+apdomain.Apustua"
+__arrayGet*4
+
+__unknown_file (
+
+%0java.util.Vector*"
+
+__unknown_file (
+""*
+3
+1*„
+3
+‹ ‹(™ß
+
+‹ ‹(
+%1java.lang.Double"1domain.ApustuAnitza#getBalioa()Ljava/lang/Double;*A
+
+__unknown_file (%
+#
+apustuAnitzadomain.ApustuAnitza2getBalioa()åâ
+
+‹  ‹(-
+%2domain.Quote"'domain.Apustua#getKuota()Ldomain/Quote;*2
+
+__unknown_file (
+
+apdomain.Apustua2
+getKuota()êç
+
+‹  ‹(8
+%3java.lang.Double")domain.Quote#getQuote()Ljava/lang/Double;*0
+
+__unknown_file (
+
+%2domain.Quote2
+getQuote()*
+2*≈
+4
+€ €(Æ´
+
+€ €(,
+%0java.util.Vector"3domain.ApustuAnitza#getApustuak()Ljava/util/Vector;*A
+
+__unknown_file (%
+#
+apustuAnitzadomain.ApustuAnitza2getApustuak()*
+2*%
+1
+ﬁ	 ﬁ(
+"
+
+ﬁ ﬁ(
+"":1
+
+Ÿ" Ÿ(;#
+apustuAnitzadomain.ApustuAnitzaB
+dataaccess.DataAccess

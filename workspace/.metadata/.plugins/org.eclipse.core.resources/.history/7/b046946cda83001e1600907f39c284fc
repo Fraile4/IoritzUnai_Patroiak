@@ -1,0 +1,22 @@
+package businessLogic;
+
+import java.util.List;
+import domain.Event;
+
+public class ExtendedIteratorEvents implements ExtendedIterator<Event> {
+	List<Event> gertaerak;
+	int pos;
+
+	public ExtendedIteratorEvents(List<Event> gertaerak) {
+		this.gertaerak = gertaerak;
+		this.pos = gertaerak.size() - 1;
+	}
+
+	public Event previous() {
+		pos = pos - 1;
+		Event prev = gertaerak.get(pos);
+		return prev;
+	}
+	
+
+}

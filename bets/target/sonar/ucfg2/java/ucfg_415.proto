@@ -1,0 +1,163 @@
+
+6dataaccess.DataAccess#popularrenaLortu()Ldomain/Sport;∫
+≠/home/ioritztubio/Documents/UNI/3/1/SI2/siproyect/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.pdf/src/main/java/dataaccess/DataAccess.javaö	 ö	("6*ı
+2
+†	 †	(O
+M
+
+†	 †	(
+sportdomain.Sport"__id*"
+
+__unknown_file (
+""ä
+á
+
+†	 †	(
+sportdomain.Sport"
+__arrayGet*2
+
+__unknown_file (
+
+spjava.util.List*"
+
+__unknown_file (
+""*
+4
+1*€
+3
+£	 £	(\
+Z
+
+£	 £	(
+sdomain.Sport"__id*3
+
+__unknown_file (
+
+sportdomain.Sportg
+e
+
+§	 §	(
+maxjava.lang.Integer"__id*7
+
+__unknown_file (
+
+kontjava.lang.Integer*
+2*Ì
+4
+°	 °	(´®
+
+°	 °	(#
+%4java.lang.Integer"5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;*3
+
+__unknown_file (
+
+sportdomain.Sport2getApustuKantitatea()f
+d
+
+°	 °	(#
+kontjava.lang.Integer"__id*5
+
+__unknown_file (
+
+%4java.lang.IntegerΩ
+∫
+
+¢	 ¢	(
+%5boolean"	__compare*!
+
+__unknown_file (
+>*7
+
+__unknown_file (
+
+kontjava.lang.Integer*6
+
+__unknown_file (
+
+maxjava.lang.Integer*
+2
+3*Ê	
+6
+õ	 õ	(C
+A
+
+õ	 õ	(	
+%0int"__id*"
+
+__unknown_file (
+""W
+U
+
+õ	 õ	( 
+maxjava.lang.Integer"__id*'
+
+__unknown_file (
+	
+%0intK
+I
+
+ú	 ú	(
+sdomain.Sport"__id*"
+
+__unknown_file (
+""z
+x
+
+ù	 ù	(%
+%1javax.persistence.EntityManager"__id*=
+
+__unknown_file (!*
+dataaccess.DataAccess"
+db¯ı
+
+ù	 ù	(R"
+%2javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*C
+
+__unknown_file ('
+%
+%1javax.persistence.EntityManager*8
+
+__unknown_file (
+SELECT sp FROM Sport sp *"
+
+__unknown_file (
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)}
+{
+
+ù	 ù	(S%
+queryjavax.persistence.TypedQuery"__id*@
+
+__unknown_file ($
+"
+%2javax.persistence.TypedQueryπ∂
+
+û	 û	(&
+%3java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*C
+
+__unknown_file ('
+%
+queryjavax.persistence.TypedQuery2getResultList()^
+\
+
+û	 û	('
+spjava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.ListS
+Q
+
+ü	 ü	(
+kontjava.lang.Integer"__id*"
+
+__unknown_file (
+""*
+2*2
+1
+ß		 ß	(
+"!
+
+ß	 ß	(
+
+sdomain.SportB
+dataaccess.DataAccessH

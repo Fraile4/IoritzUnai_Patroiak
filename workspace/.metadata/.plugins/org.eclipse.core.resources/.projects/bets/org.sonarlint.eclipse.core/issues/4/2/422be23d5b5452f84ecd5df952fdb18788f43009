@@ -1,0 +1,21 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(Î÷Þ’üÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+[
+java:S3740,"/Provide the parametrized type for this generic.(¥Ðƒ…H’RMAJORZ
+CODE_SMELL
+y
+java:S1192#"JDefine a constant instead of duplicating this literal "Etiquetas" 3 times.(æºüÿH“RCRITICALZ
+CODE_SMELL
+^
+java:S1948"/Make "businessLogic" transient or serializable.(÷ÿ‡ÝH—RCRITICALZ
+CODE_SMELL
+U
+java:S1172 ")Remove this unused method parameter "me".(‹ÌÿýH˜RMAJORZ
+CODE_SMELL
+y	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýö£ÃHšRMINORZ
+CODE_SMELL
+T
+java:S1172F"(Remove this unused method parameter "e".(ýö£ÃH›RMAJORZ
+CODE_SMELL

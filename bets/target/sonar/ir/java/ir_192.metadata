@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#findApustua(Ldomain/Registered;)Ljava/util/List;
+==
+open dataaccess.DataAccess#open(Z)V
+close dataaccess.DataAccess#close()V
+findApustua dataaccess.DataAccess#findApustua(Ldomain/Registered;)Ljava/util/List;

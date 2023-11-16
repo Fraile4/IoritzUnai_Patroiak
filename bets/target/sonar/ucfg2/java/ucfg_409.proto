@@ -1,0 +1,89 @@
+
+4dataaccess.DataAccess#rankingLortu()Ljava/util/List;º
+­/home/ioritztubio/Documents/UNI/3/1/SI2/siproyect/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.pdf/src/main/java/dataaccess/DataAccess.javaÂ Â(%"1*õ
+1
+Ã" Ã($z
+x
+
+Ã" Ã($%
+%0javax.persistence.EntityManager"__id*=
+
+__unknown_file (!*
+dataaccess.DataAccess"
+dbú÷
+
+Ã" Ã(`"
+%1javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*C
+
+__unknown_file ('
+%
+%0javax.persistence.EntityManager*:
+
+__unknown_file (
+SELECT r FROM Registered r*"
+
+__unknown_file (
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)~
+|
+
+Ã Ã(a&
+Rqueryjavax.persistence.TypedQuery"__id*@
+
+__unknown_file ($
+"
+%1javax.persistence.TypedQueryº·
+
+Ä Ä(1
+%2java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*D
+
+__unknown_file ((
+&
+Rqueryjavax.persistence.TypedQuery2getResultList()a
+_
+
+Ä Ä(2
+listRjava.util.List"__id*2
+
+__unknown_file (
+
+%2java.util.List><
+
+Å Å(1
+%3java.util.ArrayList"java.util.ArrayListl
+j
+
+Å Å(3
+%4"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%3java.util.ArrayListd
+b
+
+Å Å(4
+emajava.util.List"__id*7
+
+__unknown_file (
+
+%3java.util.ArrayList
+Œ
+
+Ç Ç($
+
+%5void"Odataaccess.DataAccess#erabiltzaileakOrdenatu(Ljava/util/List;Ljava/util/List;)V*5
+
+__unknown_file (
+dataaccess.DataAccess*5
+
+__unknown_file (
+
+listRjava.util.List*3
+
+__unknown_file (
+
+emajava.util.List"%
+
+È È(
+
+emajava.util.ListB
+dataaccess.DataAccessH

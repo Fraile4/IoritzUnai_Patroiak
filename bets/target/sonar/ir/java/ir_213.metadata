@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#findSport(Ldomain/Event;)Ldomain/Sport;
+==
+open dataaccess.DataAccess#open(Z)V
+findSport dataaccess.DataAccess#findSport(Ldomain/Event;)Ldomain/Sport;
+close dataaccess.DataAccess#close()V

@@ -1,0 +1,213 @@
+
+|	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŒšH¹RMINORZ
+CODE_SMELL
+}	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éí×ÕHÀRMINORZ
+CODE_SMELL
+|	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò·ìHHÂRMINORZ
+CODE_SMELL
+W	java:S106©"+Replace this use of System.out by a logger.(şĞóÅHêRMAJORZ
+CODE_SMELL
+[
+java:S1481¼")Remove this unused "user" local variable.(©ú÷İşÿÿÿÿHŠRMINORZ
+CODE_SMELL
+‚	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Šı½ùÿÿÿÿH»RMINORZ
+CODE_SMELL
+_
+java:S1905É"-Remove this unnecessary cast to "Registered".(©ú÷İşÿÿÿÿHúRMINORZ
+CODE_SMELL
+_
+java:S1905¼"-Remove this unnecessary cast to "Registered".(©ú÷İşÿÿÿÿHˆRMINORZ
+CODE_SMELL
+S
+java:S1481ò"&Remove this unused "b" local variable.(î¡“ŒHşRMINORZ
+CODE_SMELL
+_
+java:S1905Š	"-Remove this unnecessary cast to "Registered".(­Ì©şÿÿÿÿHRMINORZ
+CODE_SMELL
+—
+java:S1149€"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ãØşäúÿÿÿÿHØRMAJORZ
+CODE_SMELL
+_
+java:S1905‹	"-Remove this unnecessary cast to "Registered".(À£’øÿÿÿÿÿH RMINORZ
+CODE_SMELL
+}	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÅ›HÁRMINORZ
+CODE_SMELL
+‚	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş»—ÿÿÿÿÿHÃRMINORZ
+CODE_SMELL
+‘
+java:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æˆ›'HÚRMAJORZ
+CODE_SMELL
+Z
+java:S1905º	"-Remove this unnecessary cast to "Registered".(ªåä„H¥RMINORZ
+CODE_SMELL
+W	java:S106‡"+Replace this use of System.out by a logger.(ùÛåHçRMAJORZ
+CODE_SMELL
+k
+java:S2696³"6Make the enclosing method "static" or remove this set.(Îö¥„úÿÿÿÿHíRCRITICALZ
+CODE_SMELL
+[
+java:S1481¶")Remove this unused "user" local variable.(©ú÷İşÿÿÿÿH…RMINORZ
+CODE_SMELL
+’
+java:S1149é"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ü÷Ù×HàRMAJORZ
+CODE_SMELL
+k
+java:S2696»"6Make the enclosing method "static" or remove this set.(Îö¥„úÿÿÿÿHïRCRITICALZ
+CODE_SMELL
+U
+java:S5411ô"(Use a primitive boolean expression here.(¸²ç”HÍRMINORZ
+CODE_SMELL
+‚	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊûùïøÿÿÿÿH¿RMINORZ
+CODE_SMELL
+Z
+java:S1905Í"-Remove this unnecessary cast to "Registered".(ÜšÊ—H”RMINORZ
+CODE_SMELL
+Z
+java:S1905 "-Remove this unnecessary cast to "Registered".(Õ„¸—H€RMINORZ
+CODE_SMELL
+‚	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èËŠÿÿÿÿÿH¾RMINORZ
+CODE_SMELL
+—
+java:S1149ğ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿíàêùÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+[	java:S1062"+Replace this use of System.out by a logger.(‚Ô‚’ÿÿÿÿÿHâRMAJORZ
+CODE_SMELL
+’
+java:S1192à"]Define a constant instead of duplicating this literal "Â¿QuiÃ©n ganarÃ¡ el partido?" 3 times.(Û’ÄµüÿÿÿÿHšRCRITICALZ
+CODE_SMELL
+_
+java:S1905Ã"-Remove this unnecessary cast to "Registered".(©ú÷İşÿÿÿÿHRMINORZ
+CODE_SMELL
+
+java:S1488Ü"^Immediately return this expression instead of assigning it to the temporary variable "events".(¹Ø­øÿÿÿÿHÄRMINORZ
+CODE_SMELL
+_
+java:S1905£"-Remove this unnecessary cast to "Registered".(©ú÷İşÿÿÿÿHóRMINORZ
+CODE_SMELL
+Z
+java:S1905«	"-Remove this unnecessary cast to "Registered".(ªåä„H£RMINORZ
+CODE_SMELL
+\	java:S106”"+Replace this use of System.out by a logger.(ÔÅäìıÿÿÿÿHèRMAJORZ
+CODE_SMELL
+’
+java:S1149ç"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ğ€¬ğHİRMAJORZ
+CODE_SMELL
+U
+java:S5411÷"(Use a primitive boolean expression here.(¨Øç˜HÊRMINORZ
+CODE_SMELL
+a
+java:S1066É"/Merge this if statement with the enclosing one.(ºèÒíşÿÿÿÿH´RMAJORZ
+CODE_SMELL
+—
+java:S1149•"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿ¤¡ÃûÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+\	java:S106Á"+Replace this use of System.out by a logger.(ëû®ŸûÿÿÿÿHøRMAJORZ
+CODE_SMELL
+g
+java:S4973„"<Strings and Boxed types should be compared using "equals()".(ò»ØÁûÿÿÿÿHÓRMAJORZBUG
+_
+java:S1905¾"-Remove this unnecessary cast to "Registered".(©ú÷İşÿÿÿÿHöRMINORZ
+CODE_SMELL
+z	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îôğÚHùRMINORZ
+CODE_SMELL
+[
+java:S1481Ã")Remove this unused "user" local variable.(©ú÷İşÿÿÿÿHRMINORZ
+CODE_SMELL
+y	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­»ƒEH–RMINORZ
+CODE_SMELL
+}
+java:S1192ò"MDefine a constant instead of duplicating this literal "ApustuaEgin" 12 times.(ÊßÃ…H£RCRITICALZ
+CODE_SMELL
+\
+java:S1128	"1Remove this unused import 'java.util.LinkedList'.(»Äğ1H§RMINORZ
+CODE_SMELL
+\	java:S106À"+Replace this use of System.out by a logger.(¿ˆÉ™ùÿÿÿÿHğRMAJORZ
+CODE_SMELL
+^
+java:S2175Œ	"8A "Vector<Jarraitzailea>" cannot contain a "Registered".(­·İH¢RMAJORZBUG
+’
+java:S1149•"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(è­À—HßRMAJORZ
+CODE_SMELL
+j
+java:S1854¶"8Remove this useless assignment to local variable "user".(©ú÷İşÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+_
+java:S1905¶"-Remove this unnecessary cast to "Registered".(©ú÷İşÿÿÿÿHƒRMINORZ
+CODE_SMELL
+‘
+java:S1149¤"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(çä¸DHáRMAJORZ
+CODE_SMELL
+z	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©É½ÉHõRMINORZ
+CODE_SMELL
+’
+java:S1149‚"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÔƒÌõHÙRMAJORZ
+CODE_SMELL
+€
+java:S1192Ô"KDefine a constant instead of duplicating this literal "DiruaSartu" 4 times.(™ª¾œşÿÿÿÿHRCRITICALZ
+CODE_SMELL
+
+java:S1192ò"^Define a constant instead of duplicating this literal "Zeinek irabaziko du partidua?" 3 times.(ı öH–RCRITICALZ
+CODE_SMELL
+Š
+java:S1488µ	"]Immediately return this expression instead of assigning it to the temporary variable "teams".(Çö§§HÇRMINORZ
+CODE_SMELL
+W	java:S106ê"+Replace this use of System.out by a logger.(öÃ…§HäRMAJORZ
+CODE_SMELL
+}	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø“ä«H¼RMINORZ
+CODE_SMELL
+\	java:S106®"+Replace this use of System.out by a logger.(ŸƒøÇúÿÿÿÿHëRMAJORZ
+CODE_SMELL
+f
+java:S2696²"6Make the enclosing method "static" or remove this set.(ÜÍëöHìRCRITICALZ
+CODE_SMELL
+S
+java:S1481Ê"&Remove this unused "b" local variable.(î¡“ŒHüRMINORZ
+CODE_SMELL
+j
+java:S1854Ã"8Remove this useless assignment to local variable "user".(©ú÷İşÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+Y
+java:S1125’"'Remove the unnecessary boolean literal.(”÷³ˆıÿÿÿÿH—RMINORZ
+CODE_SMELL
+m	java:S125ò"<This block of commented-out lines of code should be removed.(ß€©úüÿÿÿÿHåRMAJORZ
+CODE_SMELL
+\	java:S106Ù"+Replace this use of System.out by a logger.(Îç°áÿÿÿÿÿHãRMAJORZ
+CODE_SMELL
+}	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÄşäHºRMINORZ
+CODE_SMELL
+f
+java:S2696¹"6Make the enclosing method "static" or remove this set.(™›Ô“HîRCRITICALZ
+CODE_SMELL
+h	java:S125„"<This block of commented-out lines of code should be removed.(›¿ª÷HñRMAJORZ
+CODE_SMELL
+‚	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸èÁòşÿÿÿÿH½RMINORZ
+CODE_SMELL
+\	java:S106•"+Replace this use of System.out by a logger.(–ÇÁ‹üÿÿÿÿHòRMAJORZ
+CODE_SMELL
+_
+java:S1905Ì"-Remove this unnecessary cast to "Registered".(˜êõÏøÿÿÿÿH’RMINORZ
+CODE_SMELL
+\	java:S106 "+Replace this use of System.out by a logger.(İÑòÿÿÿÿÿHéRMAJORZ
+CODE_SMELL
+\	java:S106"+Replace this use of System.out by a logger.(ËìƒÉùÿÿÿÿHæRMAJORZ
+CODE_SMELL
+j
+java:S1854¼"8Remove this useless assignment to local variable "user".(©ú÷İşÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+’
+java:S1149È"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(îôğÚHÜRMAJORZ
+CODE_SMELL
+X
+java:S1481Æ"&Remove this unused "i" local variable.(¾ØàéüÿÿÿÿHœRMINORZ
+CODE_SMELL
+	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¤®éûÿÿÿÿH‘RMINORZ
+CODE_SMELL
+
+java:S1192é"XDefine a constant instead of duplicating this literal "Who will win the match?" 3 times.(­èê®øÿÿÿÿH°RCRITICALZ
+CODE_SMELL
+_
+java:S1905½"-Remove this unnecessary cast to "Registered".(ğ ÊÙúÿÿÿÿHšRMINORZ
+CODE_SMELL
+Z
+java:S5411ÿ"(Use a primitive boolean expression here.(è¢ûÈúÿÿÿÿHĞRMINORZ
+CODE_SMELL

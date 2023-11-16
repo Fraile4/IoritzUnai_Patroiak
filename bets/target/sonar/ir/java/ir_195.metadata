@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#findTransakzioak(Ldomain/Registered;)Ljava/util/List;
+==
+findTransakzioak dataaccess.DataAccess#findTransakzioak(Ldomain/Registered;)Ljava/util/List;
+open dataaccess.DataAccess#open(Z)V
+close dataaccess.DataAccess#close()V

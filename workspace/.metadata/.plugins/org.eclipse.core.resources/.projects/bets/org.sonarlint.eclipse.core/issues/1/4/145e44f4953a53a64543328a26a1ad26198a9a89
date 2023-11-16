@@ -1,0 +1,35 @@
+
+z	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í§•ŠHRMINORZ
+CODE_SMELL
+\	java:S106»"+Replace this use of System.out by a logger.(‡¢´ÁÿÿÿÿÿH©RMAJORZ
+CODE_SMELL
+[	java:S106@"+Replace this use of System.out by a logger.(®Õ¢ÍúÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+	java:S116-"`Rename this field "rdbtnNewRadioButton_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÉÿüÿÿÿÿHRMINORZ
+CODE_SMELL
+d
+java:S10681",Remove this unused "btnTable" private field.(¯îÙÿÿÿÿÿ8Æ’“»½1H¯RMAJORZ
+CODE_SMELL
+\	java:S106®"+Replace this use of System.out by a logger.(‡¢´ÁÿÿÿÿÿHªRMAJORZ
+CODE_SMELL
+l	java:S125R"<This block of commented-out lines of code should be removed.(»Ä¾øÿÿÿÿHRMAJORZ
+CODE_SMELL
+~
+java:S1192¡"IDefine a constant instead of duplicating this literal "Locale: " 3 times.(‡¢´ÁÿÿÿÿÿH“RCRITICALZ
+CODE_SMELL
+‹	java:S116."`Rename this field "rdbtnNewRadioButton_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍİØHRMINORZ
+CODE_SMELL
+l	java:S125G"<This block of commented-out lines of code should be removed.(³³òşÿÿÿÿHšRMAJORZ
+CODE_SMELL
+\	java:S106¡"+Replace this use of System.out by a logger.(‡¢´ÁÿÿÿÿÿH™RMAJORZ
+CODE_SMELL
+~
+java:S1192U"JDefine a constant instead of duplicating this literal "Etiquetas" 8 times.(áàâ¦ıÿÿÿÿHŸRCRITICALZ
+CODE_SMELL
+l	java:S125="<This block of commented-out lines of code should be removed.(ë€é—ÿÿÿÿÿH—RMAJORZ
+CODE_SMELL
+b
+java:S1135?"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH›RINFOZ
+CODE_SMELL
+	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃëáûÿÿÿÿHœRMINORZ
+CODE_SMELL

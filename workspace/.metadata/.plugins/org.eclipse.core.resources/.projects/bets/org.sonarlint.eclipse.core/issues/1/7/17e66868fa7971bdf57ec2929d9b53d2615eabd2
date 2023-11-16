@@ -1,0 +1,41 @@
+
+`
+java:S3740)"/Provide the parametrized type for this generic.(Î÷Ş’üÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+[
+java:S37400"/Provide the parametrized type for this generic.(æÊøĞHÍRMAJORZ
+CODE_SMELL
+`
+java:S37404"/Provide the parametrized type for this generic.(ñì†ºøÿÿÿÿHÎRMAJORZ
+CODE_SMELL
+[
+java:S3740h"/Provide the parametrized type for this generic.(¥Ğƒ…HÏRMAJORZ
+CODE_SMELL
+a
+java:S3740‹"/Provide the parametrized type for this generic.(²…‰–şÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+a
+java:S3740­"/Provide the parametrized type for this generic.(š¤›ÛøÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+~
+java:S1192D"JDefine a constant instead of duplicating this literal "Etiquetas" 9 times.(òÂ¥øÿÿÿÿHÒRCRITICALZ
+CODE_SMELL
+w
+java:S1192I"HDefine a constant instead of duplicating this literal "Tahoma" 12 times.(³˜ºäHÜRCRITICALZ
+CODE_SMELL
+|	java:S1160"QRename this field "list_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÊøĞHéRMINORZ
+CODE_SMELL
+	java:S1162"VRename this field "scrollBar_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıåÊHêRMINORZ
+CODE_SMELL
+	java:S1164"QRename this field "list_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñì†ºøÿÿÿÿHëRMINORZ
+CODE_SMELL
+	java:S1166"VRename this field "scrollBar_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒøêõHìRMINORZ
+CODE_SMELL
+^
+java:S1948"/Make "businessLogic" transient or serializable.(÷ÿ‡İHíRCRITICALZ
+CODE_SMELL
+z	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıö£ÃHîRMINORZ
+CODE_SMELL
+U
+java:S1172å"(Remove this unused method parameter "e".(ıö£ÃHïRMAJORZ
+CODE_SMELL

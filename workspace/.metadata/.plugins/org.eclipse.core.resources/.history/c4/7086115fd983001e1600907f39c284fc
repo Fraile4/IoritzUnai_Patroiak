@@ -1,0 +1,15 @@
+package businessLogic;
+
+
+import domain.Event;
+
+public class ExtendedIteratorEvents extends ExtendedIterator<Event> {
+	List<Event> gertaerak;
+	int pos;
+	
+	public ExtendedIteratorEvents (List<Event> gertaerak) {
+		this.gertaerak = gertaerak;
+	}
+	
+	
+}

@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;
+==
+saldoaBistaratu dataaccess.DataAccess#saldoaBistaratu(Ldomain/Registered;)Ljava/lang/String;
+open dataaccess.DataAccess#open(Z)V
+close dataaccess.DataAccess#close()V

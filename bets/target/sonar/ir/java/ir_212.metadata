@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#findTeam(Ldomain/Registered;)Ldomain/Team;
+==
+findTeam dataaccess.DataAccess#findTeam(Ldomain/Registered;)Ldomain/Team;
+open dataaccess.DataAccess#open(Z)V
+close dataaccess.DataAccess#close()V

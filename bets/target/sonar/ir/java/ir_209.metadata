@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#findEvent(Ldomain/Quote;)Ldomain/Event;
+==
+findEvent dataaccess.DataAccess#findEvent(Ldomain/Quote;)Ldomain/Event;
+open dataaccess.DataAccess#open(Z)V
+close dataaccess.DataAccess#close()V
